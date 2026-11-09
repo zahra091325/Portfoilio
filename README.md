@@ -1,2 +1,2 @@
-# Error 404
-### still in progress. try again later.
+# Website still in progress
+### try again later.
